@@ -1,3 +1,6 @@
+Dupla: Jean Carlos Pereira Cassiano - NUSP: 13864008 // Giovanna de Freitas Velasco - NUSP: 13676346
+
+
 ### Questão 3
 
 Um microcontrolador ideal para o controle de um elevador deve ter uma CPU de capacidade baixa a média, com barramento de 8 ou 16 bits, e operar predominantemente com inteiros. As vantagens incluem baixo custo, simplicidade de implementação, baixo consumo de energia, tamanho compacto, e alta confiabilidade.
